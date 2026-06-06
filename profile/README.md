@@ -1,27 +1,23 @@
-# MAUZ Förta — Ingeniería de Software a Medida
-Convertimos requerimientos empresariales complejos en productos digitales rentables, escalables y seguros. Somos el brazo ejecutor encargado de transformar la visión estratégica de nuestros clientes en realidad tecnológica.
+# MAUZ — Custom Software Engineering
+**MAUZ** es la división especializada en ingeniería y desarrollo de software a medida de **Grupo Förta**. Nos encargamos de transformar requerimientos empresariales complejos en productos digitales rentables, estables y de alto impacto comercial.
 
-## ¿Cómo ayudamos a tu negocio?
-Entendemos que el software debe ser un motor de crecimiento y eficiencia. Nos especializamos en:
-* **E-commerce & Web Applications:** Plataformas interactivas de alta conversión, responsivas y optimizadas para la gestión avanzada de inventarios y transacciones seguras.
-* **Interfaces Dinámicas (Mobile-First):** Experiencias de usuario de alto impacto y velocidad, adaptadas a las exigencias operativas del mercado actual.
-* **Sistemas Corporativos & Automatización:** Arquitecturas distribuidas, APIs robustas, gestión de accesos basados en roles (RBAC) y optimización de procesos internos.
+Como el brazo ejecutor del grupo para clientes externos, diseñamos ecosistemas web y móviles robustos bajo metodologías ágiles y estándares rigurosos de calidad técnica.
 
-## 🛠️ Nuestro Ecosistema Tecnológico
-Seleccionamos la arquitectura exacta según la escala y necesidades del proyecto:
-* **Backend Core:** Java 17 / Spring Boot 3.x (Seguridad JWT y JPA) para sistemas empresariales de alta criticidad.
-* **Backend Ágil:** Node.js y Python para microservicios dinámicos, automatizaciones e integraciones veloces.
-* **Frontend:** Interfaces reactivas y de alta fidelidad construidas en Vue.js 3 (Pinia/Vite) y React, optimizadas bajo la filosofía Tailwind CSS.
-* **Infraestructura:** Despliegue automatizado e infraestructura como servicio en la nube (DigitalOcean Droplets), protegidos bajo cifrado SSL (Let's Encrypt).
+## 🛠️ Nuestro Ecosistema Tecnológico (Políglota y Escalable)
+Seleccionamos el stack exacto según las necesidades operativas de cada proyecto:
+* **Backend Core & Enterprise:** Java 17 / Spring Boot 3.x (Spring Security, JWT, JPA) y MySQL para sistemas transaccionales y pasarelas de pago de alta criticidad.
+* **Backend Ágil & Microservicios:** Node.js y Python para automatizaciones, integraciones veloces y servicios dinámicos.
+* **Frontend Avanzado:** Interfaces reactivas y dinámicas construidas en Vue.js 3 (Composition API / Pinia) y React, optimizadas bajo la filosofía Tailwind CSS (Mobile-First).
+* **Infraestructura Cloud:** Despliegue seguro e infraestructura automatizada en servidores privados (Droplets) de DigitalOcean con cifrado SSL (Let's Encrypt).
 
-## 🧪 MAUZ Labs (Investigación y Desarrollo)
-La innovación y la mitigación de riesgos técnicos son pilares de nuestra cultura de ingeniería. Contamos con una organización secundaria dedicada exclusivamente al prototipado y validación técnica profunda:
-* 👉 **[Explorar Förta Labs (GitHub)](https://github.com/SoodanCompany)**
+## 🧪 El Ecosistema Grupo Förta
+Para garantizar que el software comercial en producción sea impecable, mitigamos los riesgos técnicos a través de nuestra división hermana de I+D: <br>
 
-En este espacio de investigación gestionamos actualmente **dos proyectos activos** enfocados en el testeo de conceptos arquitectónicos, pruebas de concepto avanzadas (PoC) y validación de librerías antes de incorporarlas a nuestros desarrollos comerciales en producción.
+* **MAUZ (Esta Organización):** Foco 100% comercial, desarrollo a medida, código limpio (SOLID) y arquitectura empresarial para clientes de la firma.
+* *[Förta Labs](https://github.com/SoodanCompany):* Nuestro laboratorio de innovación. El espacio dedicado al testeo de conceptos arquitectónicos complejos, pruebas de concepto (PoC) y el desarrollo de aplicaciones de autoría propia.
 
 ## ¿Por qué elegirnos?
-A diferencia de las agencias de desarrollo genéricas, en **MAUZ Förta** combinamos un riguroso estándar de ingeniería de software (principios SOLID, DTOs, control global de excepciones) con una mentalidad orientada al ROI del producto. Entendemos que tu software no solo debe compilar perfectamente, debe generar resultados comerciales medibles.
+En **MAUZ** combinamos un sólido background en ingeniería de software con una mentalidad orientada al ROI del producto. Entendemos que el software de un negocio no solo debe compilar perfectamente y ser seguro; debe generar resultados comerciales medibles.
 
 ---
-*¿Tienes un proyecto en mente? Contáctanos y diseñemos tu próxima ventaja competitiva.*
+*MAUZ es una empresa de Grupo Förta. ¿Tienes un proyecto en mente? Contáctanos.*
